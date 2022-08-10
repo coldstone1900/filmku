@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "update": {
     "version": "1.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -138,7 +138,7 @@
   "filter_films": [
     "强奸"
   ],
-  "filter_categories": ["伦理"],
+  "filter_categories": [" "],
   "excluded_filter_films": [
     "速度与激情"
   ],
