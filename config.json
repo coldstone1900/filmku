@@ -16,10 +16,10 @@
     ".mp4"
   ],
   "review": 1,
-  "limited_date": "0",
+  "limited_date": "1",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视视频？",
-  "in_app_productId": "android.com.lemon.yingyuan.removeads",
-  "vipbg": "https://sneezeart.github.io/dianshiju/film_bg.jpeg",
+  "in_app_productId": "android.com.coldstone.filmku.removeads",
+  "vipbg": "https://coldstone1900.github.io/filmku/film_bg.jpeg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
     "title_vip": "您享有以下权利：",
@@ -47,112 +47,98 @@
   "swipes": [
     [
       {
-        "title": "奇异博士2：疯狂多元宇宙",
-        "img": "https://img1.mydrivers.com/img/20220422/1a921a79-6e9b-458f-85d3-28ee0b35eb89.jpg",
-        "href": "https://www.dandanzan10.top/dianying/97523.html"
+        "title": "独行月球",
+        "img": "https://img9.doubanio.com/view/photo/s/public/p2876606695.webp",
+        "href": "https://www.dandanzan10.top/dianying/98967.html"
       },
       {
-        "title": "且试天下",
-        "img": "https://wx1.sinaimg.cn/mw2000/006tSG3kly1h1dw2mu9lkj33lm1jkx6s.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/91621.html"
+        "title": "明日战记",
+        "img": "https://img2.doubanio.com/img/trailer/medium/2877086063.jpg",
+        "href": "https://www.dandanzan10.top/dianying/30610.html"
       },
       {
-        "title": "王牌对王牌 第七季",
-        "img": "https://img.zcool.cn/community/01459459a71925a801211d25b965ec.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/format,webp/quality,Q_100",
-        "href": "https://www.dandanzan10.top/zongyi/97450.html"
+        "title": "人生大事",
+        "img": "https://img2.doubanio.com/view/photo/s/public/p2869854302.webp",
+        "href": "https://www.dandanzan10.top/dianying/104387.html"
       },
       {
-        "title": "完美世界",
-        "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
-        "href": "https://www.nnyy6.top/dongman/86774.html"
+        "title": "所言所行",
+        "img": "https://img9.doubanio.com/view/photo/s/public/p2616039906.webp",
+        "href": "https://www.dandanzan10.top/dianying/81298.html"
       }
     ],
     [
       {
-        "title": "奇异博士2：疯狂多元宇宙",
-        "img": "https://img1.mydrivers.com/img/20220422/1a921a79-6e9b-458f-85d3-28ee0b35eb89.jpg",
-        "href": "https://www.dandanzan10.top/dianying/97523.html"
+        "title": "星汉灿烂·月升沧海",
+        "img": "https://img2.doubanio.com/view/photo/s/public/p2875253842.webp",
+        "href": "https://www.dandanzan10.top/dianshiju/104489.html"
       },
       {
-        "title": "且试天下",
-        "img": "https://wx1.sinaimg.cn/mw2000/006tSG3kly1h1dw2mu9lkj33lm1jkx6s.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/91621.html"
+        "title": "沉香如屑",
+        "img": "https://img9.doubanio.com/view/photo/s/public/p2674258944.webp",
+        "href": "https://www.dandanzan10.top/dianshiju/98520.html"
       },
       {
-        "title": "王牌对王牌 第七季",
-        "img": "https://img.zcool.cn/community/01459459a71925a801211d25b965ec.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/format,webp/quality,Q_100",
-        "href": "https://www.dandanzan10.top/zongyi/97450.html"
+        "title": "少年派2",
+        "img": "https://img1.doubanio.com/view/photo/s/public/p2876590969.webp",
+        "href": "https://www.dandanzan10.top/dianshiju/105573.html"
       },
       {
-        "title": "完美世界",
-        "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
-        "href": "https://www.nnyy6.top/dongman/86774.html"
+        "title": "天才基本法",
+        "img": "https://img3.doubanio.com/view/photo/s/public/p2876681940.webp",
+        "href": "https://www.dandanzan10.top/dianshiju/106114.html"
       }
     ],
     [
       {
-        "title": "奇异博士2：疯狂多元宇宙",
-        "img": "https://img1.mydrivers.com/img/20220422/1a921a79-6e9b-458f-85d3-28ee0b35eb89.jpg",
-        "href": "https://www.dandanzan10.top/dianying/97523.html"
+        "title": "我的女儿出嫁了",
+        "img": "https://img04.sogoucdn.com/app/a/201137/d2a1ca4f-2c92-4bae-be0d-24e7afeec331",
+        "href": "https://www.dandanzan10.top/zongyi/99408.html"
       },
       {
-        "title": "且试天下",
-        "img": "https://wx1.sinaimg.cn/mw2000/006tSG3kly1h1dw2mu9lkj33lm1jkx6s.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/91621.html"
+        "title": "初入职场的我们",
+        "img": "https://img04.sogoucdn.com/app/a/201137/68c908ee-600c-4e12-a544-84aa83f212d1",
+        "href": "https://www.dandanzan10.top/zongyi/98277.html"
       },
       {
-        "title": "王牌对王牌 第七季",
-        "img": "https://img.zcool.cn/community/01459459a71925a801211d25b965ec.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/format,webp/quality,Q_100",
-        "href": "https://www.dandanzan10.top/zongyi/97450.html"
+        "title": "向往的生活",
+        "img": "https://img01.sogoucdn.com/app/a/201137/52298927-6ecc-4061-8550-16eebdf7f815",
+        "href": "https://www.dandanzan10.top/zongyi/99836.html"
       },
       {
-        "title": "完美世界",
-        "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
-        "href": "https://www.nnyy6.top/dongman/86774.html"
+        "title": "大侦探",
+        "img": "https://img01.sogoucdn.com/app/a/201137/310f910d-9bc8-459d-9448-731844d8e630",
+        "href": "https://www.dandanzan10.top/zongyi/96206.html"
       }
     ],
     [
       {
-        "title": "奇异博士2：疯狂多元宇宙",
-        "img": "https://img1.mydrivers.com/img/20220422/1a921a79-6e9b-458f-85d3-28ee0b35eb89.jpg",
-        "href": "https://www.dandanzan10.top/dianying/97523.html"
-      },
-      {
-        "title": "且试天下",
-        "img": "https://wx1.sinaimg.cn/mw2000/006tSG3kly1h1dw2mu9lkj33lm1jkx6s.jpg",
-        "href": "https://www.dandanzan10.top/dianshiju/91621.html"
-      },
-      {
-        "title": "王牌对王牌 第七季",
-        "img": "https://img.zcool.cn/community/01459459a71925a801211d25b965ec.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/format,webp/quality,Q_100",
-        "href": "https://www.dandanzan10.top/zongyi/97450.html"
-      },
-      {
         "title": "完美世界",
         "img": "https://inews.gtimg.com/newsapp_bt/0/13446522328/1000",
-        "href": "https://www.nnyy6.top/dongman/86774.html"
+        "href": "https://www.dandanzan10.top/dongman/86774.html"
+      },
+      {
+        "title": "凡人修仙传：魔道争锋",
+        "img": "https://coldstone1900.github.io/filmku/frxxz.webp",
+        "href": "https://www.dandanzan10.top/dongman/92627.html"
+      },
+      {
+        "title": "假面骑士利维斯",
+        "img": "https://qna.smzdm.com/202110/20/616feda8ec6cd6120.jpg_fo742.jpg",
+        "href": "https://www.dandanzan10.top/dongman/90802.html"
+      },
+      {
+        "title": "九天玄帝诀",
+        "img": "https://n.sinaimg.cn/sinakd20210814s/452/w802h450/20210814/59bf-ab88f2a9fe5d825c671f9b137ef7c7cb.png",
+        "href": "https://www.dandanzan10.top/dongman/90339.html"
       }
     ]
   ],
-  "announce": {
-    "show": "1",
-    "title": "欢迎使用i酷影视",
-    "contents": [
-      {
-        "content": "本App所有资源"
-      },
-      {
-        "content": "来源于第三方搜索引擎，i酷影视无权增加、修改、删除任何信息。\n\n",
-        "highlight": "1"
-      },
-      {
-        "content": "本App是基于第三方公开接口的搜索引擎展示，所有展示内容皆是搜索引擎检索结果。\n\n本App以非人工检索方式，根据用户键入或选择的关键字自动发送至第三方网站查询检索，任何通过使用本App展示和搜索的资源均系他人制作或提供，所有视频及图片版权均归原作者及网站所有，本应用不存储、不制作、不上传。\n\n本App没有数据服务器，仅有用于应用更新检查的静态空间。\n\n若本App无意侵犯了您的权利，请留言，我们会及时处理和回复。\n\n本App仅为学习与测试之用，日常请使用正版视频软件，支持正版人人有责。"
-      }
-    ],
-    "button": "我知道了"
-  },
   "filter_films_enable": 1,
-  "filter_films": [],
+  "filter_films": [
+    "强奸"
+  ],
+  "filter_categories": ["伦理"],
   "excluded_filter_films": [
     "速度与激情"
   ],
