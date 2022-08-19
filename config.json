@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "update": {
     "version": "1.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -72,11 +72,6 @@
         "title": "星汉灿烂·月升沧海",
         "img": "https://img2.doubanio.com/view/photo/s/public/p2875253842.webp",
         "href": "https://www.dandanzan10.top/dianshiju/104489.html"
-      },
-      {
-        "title": "沉香如屑",
-        "img": "https://img9.doubanio.com/view/photo/s/public/p2674258944.webp",
-        "href": "https://www.dandanzan10.top/dianshiju/98520.html"
       },
       {
         "title": "少年派2",
