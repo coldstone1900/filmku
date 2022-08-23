@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.3",
   "update": {
     "version": "2.0",
     "message": "修复了一些问题，优化了播放体验"
@@ -47,24 +47,24 @@
   "swipes": [
     [
       {
-        "title": "独行月球",
-        "img": "https://img9.doubanio.com/view/photo/s/public/p2876606695.webp",
-        "href": "https://www.dandanzan10.top/dianying/98967.html"
+        "title": "追虎擒龙",
+        "img": "https://img2.doubanio.com/view/photo/l/public/p2640074161.jpg",
+        "href": "https://www.dandanzan10.top/dianying/86999.html"
       },
       {
-        "title": "明日战记",
-        "img": "https://img2.doubanio.com/img/trailer/medium/2877086063.jpg",
-        "href": "https://www.dandanzan10.top/dianying/30610.html"
+        "title": "壮志凌云2：独行侠",
+        "img": "https://img1.doubanio.com/view/photo/l/public/p2870609949.jpg",
+        "href": "https://www.dandanzan10.top/dianying/43817.html"
       },
       {
-        "title": "人生大事",
-        "img": "https://img2.doubanio.com/view/photo/s/public/p2869854302.webp",
-        "href": "https://www.dandanzan10.top/dianying/104387.html"
+        "title": "反贪风暴5：最终章",
+        "img": "https://img2.doubanio.com/view/photo/l/public/p2779965643.jpg",
+        "href": "https://www.dandanzan10.top/dianying/95014.html"
       },
       {
-        "title": "所言所行",
-        "img": "https://img9.doubanio.com/view/photo/s/public/p2616039906.webp",
-        "href": "https://www.dandanzan10.top/dianying/81298.html"
+        "title": "奇迹·笨小孩",
+        "img": "https://img1.doubanio.com/view/photo/l/public/p2813191049.jpg",
+        "href": "https://www.dandanzan10.top/dianying/96512.html"
       }
     ],
     [
@@ -293,7 +293,9 @@
     "一个女孩和一个男孩",
     "拉斯维加斯快车道"
   ],
-  "filter_categories": ["伦理"],
+  "filter_categories": [
+    "伦理"
+  ],
   "excluded_filter_films": [
     "速度与激情"
   ],
