@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "update": {
-    "version": "2.1",
+    "version": "2.1.0",
     "message": "修复了一些问题，优化了播放体验"
   },
   "live_m3u8s": [
